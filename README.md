@@ -200,6 +200,7 @@ Podemos utilizarlo en código Slim como este
 * GitHub master: [http://rubydoc.info/github/slim-template/slim/master/frameshttps://www.omniref.com/github/slim-template/slim](http://rubydoc.info/github/slim-template/slim/master/frameshttps://www.omniref.com/github/slim-template/slim)
 
 ---
+##Integrantes
 
 ####Jimmy Corella
 Busqueda de información, Escritura en Markdown
