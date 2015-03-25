@@ -28,12 +28,12 @@ La arquitectura del Temple es muy flexible y permite la extensión del proceso d
 ---
 
 ##Links
-..* Homepage: [http://slim-lang.com](http://slim-lang.com)
-..*Source: [http://github.com/slim-template/slim](http://github.com/slim-template/slim)
-..*Bugs: [http://github.com/slim-template/slim/issues](http://github.com/slim-template/slim/issues)
-..*List: [http://groups.google.com/group/slim-template](http://groups.google.com/group/slim-template)
-..*API documentation:
-....*Latest Gem: [http://rubydoc.info/gems/slim/frameshttps://www.omniref.com/ruby/gems/slim](http://rubydoc.info/gems/slim/frameshttps://www.omniref.com/ruby/gems/slim)
-....*GitHub master: [http://rubydoc.info/github/slim-template/slim/master/frameshttps://www.omniref.com/github/slim-template/slim](http://rubydoc.info/github/slim-template/slim/master/frameshttps://www.omniref.com/github/slim-template/slim)
+* Homepage: [http://slim-lang.com](http://slim-lang.com)
+*Source: [http://github.com/slim-template/slim](http://github.com/slim-template/slim)
+*Bugs: [http://github.com/slim-template/slim/issues](http://github.com/slim-template/slim/issues)
+*List: [http://groups.google.com/group/slim-template](http://groups.google.com/group/slim-template)
+*API documentation:
+*Latest Gem: [http://rubydoc.info/gems/slim/frameshttps://www.omniref.com/ruby/gems/slim](http://rubydoc.info/gems/slim/frameshttps://www.omniref.com/ruby/gems/slim)
+*GitHub master: [http://rubydoc.info/github/slim-template/slim/master/frameshttps://www.omniref.com/github/slim-template/slim](http://rubydoc.info/github/slim-template/slim/master/frameshttps://www.omniref.com/github/slim-template/slim)
 
 ---
