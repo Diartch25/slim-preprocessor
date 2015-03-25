@@ -24,13 +24,51 @@ La arquitectura del Temple es muy flexible y permite la extensión del proceso d
 
 ---
 
-#¿Por qué utilizar Slim?
+##¿Por qué utilizar Slim?
 
 Slim le permite escribir plantillas fáciles de mantener y prácticamente garantiza que usted escribe bien formado y XML y HTML
 
 También pensamos que la sintaxis Slim también es estético y lo hace mucho más divertido de escribir plantillas. Ya que se puede utilizar Slim como un gota en el reemplazo de todo el marco principal se puede empezar fácilmente.
 
 La arquitectura Slim es muy flexible y permite escribir extensiones y plugins de sintaxis. Slim fue desarrollado desde el principio con el rendimiento en mente.Acabamos de garantizar que Slim no tiene un impacto negativo en el rendimiento de la aplicación.
+
+---
+##Sintaxis
+
+~~~ slim
+doctype html
+html
+  head
+    title Slim Examples
+    meta name="keywords" content="template language"
+    meta name="author" content=author
+    link rel="icon" type="image/png" href=file_path("favicon.png")
+    javascript:
+      alert('Slim supports embedded javascript!')
+
+  body
+    h1 Markup examples
+
+    #content
+      p This example shows you how a basic Slim file looks.
+
+    == yield
+
+    - if items.any?
+      table#items
+        - for item in items
+          tr
+            td.name = item.name
+            td.price = item.price
+    - else
+      p No items found. Please add some inventory.
+        Thank you!
+
+    div id="footer"
+      == render 'footer'
+      | Copyright &copy; #{@year} #{@author}
+~~~
+
 
 ---
 
