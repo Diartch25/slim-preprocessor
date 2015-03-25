@@ -27,21 +27,20 @@ La arquitectura del Temple es muy flexible y permite la extensión del proceso d
 ¿Por qué utilizar Slim?
 
 Slim le permite escribir plantillas fáciles de mantener y prácticamente garantiza que usted escribe bien formado y XML y HTML
-También pensamos que la sintaxis Slim también es estético y lo hace mucho más divertido de escribir plantillas. Ya que se puede utilizar delgado como un gota en el reemplazo de todo el marco principal se puede empezar fácilmente.
-La arquitectura Slim es muy flexible y permite escribir extensiones y plugins de sintaxis.
-Sí, Slim es rápido! Delgado fue desarrollado desde el principio con el rendimiento en mente. Los puntos de referencia se realizan para cada confirmación en http://travis-ci.org/slim-template/slim . No te fíes de los números? Eso es como debe ser. Por favor, intente la tarea rake referencia a ti mismo!
 
-Sin embargo, en nuestra opinión debería usar delgado debido a sus características y sintaxis. Acabamos de garantizar que Slim no tiene un impacto negativo en el rendimiento de la aplicación.
+También pensamos que la sintaxis Slim también es estético y lo hace mucho más divertido de escribir plantillas. Ya que se puede utilizar Slim como un gota en el reemplazo de todo el marco principal se puede empezar fácilmente.
+
+La arquitectura Slim es muy flexible y permite escribir extensiones y plugins de sintaxis. Slim fue desarrollado desde el principio con el rendimiento en mente.Acabamos de garantizar que Slim no tiene un impacto negativo en el rendimiento de la aplicación.
 
 ---
 
 ##Links
 * Homepage: [http://slim-lang.com](http://slim-lang.com)
-*Source: [http://github.com/slim-template/slim](http://github.com/slim-template/slim)
-*Bugs: [http://github.com/slim-template/slim/issues](http://github.com/slim-template/slim/issues)
-*List: [http://groups.google.com/group/slim-template](http://groups.google.com/group/slim-template)
-*API documentation:
-*Latest Gem: [http://rubydoc.info/gems/slim/frameshttps://www.omniref.com/ruby/gems/slim](http://rubydoc.info/gems/slim/frameshttps://www.omniref.com/ruby/gems/slim)
-*GitHub master: [http://rubydoc.info/github/slim-template/slim/master/frameshttps://www.omniref.com/github/slim-template/slim](http://rubydoc.info/github/slim-template/slim/master/frameshttps://www.omniref.com/github/slim-template/slim)
+* Source: [http://github.com/slim-template/slim](http://github.com/slim-template/slim)
+* Bugs: [http://github.com/slim-template/slim/issues](http://github.com/slim-template/slim/issues)
+* List: [http://groups.google.com/group/slim-template](http://groups.google.com/group/slim-template)
+* API documentation:
+* Latest Gem: [http://rubydoc.info/gems/slim/frameshttps://www.omniref.com/ruby/gems/slim](http://rubydoc.info/gems/slim/frameshttps://www.omniref.com/ruby/gems/slim)
+* GitHub master: [http://rubydoc.info/github/slim-template/slim/master/frameshttps://www.omniref.com/github/slim-template/slim](http://rubydoc.info/github/slim-template/slim/master/frameshttps://www.omniref.com/github/slim-template/slim)
 
 ---
