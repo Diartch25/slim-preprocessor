@@ -19,11 +19,19 @@ Slim utiliza **Temple** para analizar/compilar y también está integrado en **T
 La arquitectura del Temple es muy flexible y permite la extensión del proceso de análisis y compilación sin monoparches. Esto es utilizado por logic less plugin y el plugin traductor que proporciona *I18n*. En el modo logic less puede utilizar Slim si te gusta la sintaxis para construir su HTML, pero no quiere escribir **Rubí** en sus plantillas.
 
 
+
 [Click para ver la fuente](http://www.rubydoc.info/gems/slim/file/doc/logic_less.md)
 
 ---
 
+¿Por qué utilizar Slim?
 
+Slim le permite escribir plantillas fáciles de mantener y prácticamente garantiza que usted escribe bien formado y XML y HTML
+También pensamos que la sintaxis Slim también es estético y lo hace mucho más divertido de escribir plantillas. Ya que se puede utilizar delgado como un gota en el reemplazo de todo el marco principal se puede empezar fácilmente.
+La arquitectura Slim es muy flexible y permite escribir extensiones y plugins de sintaxis.
+Sí, Slim es rápido! Delgado fue desarrollado desde el principio con el rendimiento en mente. Los puntos de referencia se realizan para cada confirmación en http://travis-ci.org/slim-template/slim . No te fíes de los números? Eso es como debe ser. Por favor, intente la tarea rake referencia a ti mismo!
+
+Sin embargo, en nuestra opinión debería usar delgado debido a sus características y sintaxis. Acabamos de garantizar que Slim no tiene un impacto negativo en el rendimiento de la aplicación.
 
 ---
 
